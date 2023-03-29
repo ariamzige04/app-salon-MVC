@@ -1,6 +1,6 @@
 ﻿# Sitio web de App Salon -> Practica
  
-El proposito de este sitio es mostrar mis conocimientos. Se mustra un iniciar sesión o registrarse, despues puedes seleccionar los servicios, y apartar una hora, despues te aparece un resumen de lo que elegistes y se guarda. El administrador puede ver todos estos registros de citas y eliminarlas.
+El proposito de este sitio es mostrar mis conocimientos. Se muestra un iniciar sesión o registrarse, despues puedes seleccionar los servicios, y apartar una hora, despues te aparece un resumen de lo que elegistes y se guarda. El administrador puede ver todos estos registros de citas y eliminarlas.
 
 Se utilizó las tecnologias HTML, CSS, JavaScript, Gulp, SASS. Y en el backend PHP.
 
